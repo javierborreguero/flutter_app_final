@@ -27,8 +27,7 @@ class _AnswersScreenState extends State<AnswersScreen> {
             child: Padding(
               padding: const EdgeInsets.all(8.0),
               child: Container(
-                color: Colors.blue,
-                child: Center(child: Text("Item $position")),
+
               ),
             ),
           );
